@@ -1,0 +1,1 @@
+{"name":"chat-ai","private":true,"version":"0.1.0","type":"module","scripts":{"dev":"concurrently \"node --env-file-if-exists=.env server.mjs\" \"vite\"","build":"vite build"},"dependencies":{"@vitejs/plugin-react":"latest","concurrently":"latest","vite":"latest","react":"latest","react-dom":"latest","lucide-react":"latest"}}
